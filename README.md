@@ -18,3 +18,11 @@
   <a href="#future-updates">Future Updates</a> • 
   <a href="#acknowledgement">Acknowledgement</a> •
 </p>
+
+
+## Key Features
+
+* Beautiful Onboarding Pages
+  - Has informatiion on essenrial Fruits
+* All Fruits in Viewlist
+  - View Indivual Fruits
