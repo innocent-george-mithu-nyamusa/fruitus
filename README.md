@@ -1,4 +1,4 @@
-# fruitus
+# Fruitus
 <h1 align="center">
   <br>
   <a><img src="https://github.com/innocent-george-mithu-nyamusa/fruitus/blob/9d95af66765efc28179d8f6cef5b2ed4735d2aa4/Fruitus/Assets.xcassets/logo.imageset/logo.svg" alt="Fruitus" width="200"></a>
