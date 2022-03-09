@@ -7,13 +7,14 @@
   <br>
 </h1>
 
-<h4 align="center">A fruits based marketplace where people can locate their closest <a ref="https://www.swift.org/" target="_blank"></a>.</h4>
+<h4 align="center">A fruits based marketplace where people can locate the closest fruit street carts, order, purchase fresh fruits. <a ref="https://www.swift.org/" target="_blank"></a>.</h4>
 
  <p align="center">
+  <a href="#motivation">Motivation</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#to-do">To-do</a> •
   <a href="#installation">Installation</a> • 
   <a href="#known-bugs">Known Bugs</a> • 
   <a href="#future-updates">Future Updates</a> • 
-  <a href="#acknowledgement">Acknowledgement</a>
+  <a href="#acknowledgement">Acknowledgement</a> •
 </p>
